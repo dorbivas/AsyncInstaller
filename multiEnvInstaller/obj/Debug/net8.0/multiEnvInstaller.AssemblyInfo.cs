@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("multiEnvInstaller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb815c44eb6a51269e45f9c181c3e5e40e3cb8c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("multiEnvInstaller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("multiEnvInstaller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

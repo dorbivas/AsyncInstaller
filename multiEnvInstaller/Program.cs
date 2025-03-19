@@ -11,7 +11,7 @@ namespace multiEnvInstaller
     {
         public static Logger logr = new Logger();
         private static Installer installer = new Installer(logr);
-        public async Task Main(string[] args)
+        public static async Task Main(string[] args)
         {
             List<string> hosts = args.ToList();
             await installer.MockInstaller(hosts);

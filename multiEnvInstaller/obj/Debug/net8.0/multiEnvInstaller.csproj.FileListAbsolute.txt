@@ -2,3 +2,14 @@ C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\De
 C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\Debug\net8.0\multiEnvInstaller.AssemblyInfoInputs.cache
 C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\Debug\net8.0\multiEnvInstaller.AssemblyInfo.cs
 C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\Debug\net8.0\multiEnvInstaller.csproj.CoreCompileInputs.cache
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\Debug\net8.0\multiEnvInstaller.sourcelink.json
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\bin\Debug\net8.0\multiEnvInstaller.exe
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\bin\Debug\net8.0\multiEnvInstaller.deps.json
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\bin\Debug\net8.0\multiEnvInstaller.runtimeconfig.json
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\bin\Debug\net8.0\multiEnvInstaller.dll
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\bin\Debug\net8.0\multiEnvInstaller.pdb
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\Debug\net8.0\multiEnvInstaller.dll
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\Debug\net8.0\refint\multiEnvInstaller.dll
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\Debug\net8.0\multiEnvInstaller.pdb
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\Debug\net8.0\multiEnvInstaller.genruntimeconfig.cache
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\Debug\net8.0\ref\multiEnvInstaller.dll

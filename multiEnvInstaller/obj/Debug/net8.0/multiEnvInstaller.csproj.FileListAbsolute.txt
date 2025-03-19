@@ -1,0 +1,4 @@
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\Debug\net8.0\multiEnvInstaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\Debug\net8.0\multiEnvInstaller.AssemblyInfoInputs.cache
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\Debug\net8.0\multiEnvInstaller.AssemblyInfo.cs
+C:\Users\Player#1\source\repos\LeetCode\devopsInfraTask\multiEnvInstaller\obj\Debug\net8.0\multiEnvInstaller.csproj.CoreCompileInputs.cache

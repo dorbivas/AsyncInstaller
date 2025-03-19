@@ -51,7 +51,7 @@ namespace multiEnvInstaller
             }
             catch (Exception e)
             {
-                await _logger.Log($"{e.Message} (Host: {host})", "ERROR");
+                await _logger.Log($"{e.Message} (Host: {host})", "ERROR"); 
                 return false;
             }
         }

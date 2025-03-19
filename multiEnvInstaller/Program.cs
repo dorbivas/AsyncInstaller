@@ -18,7 +18,7 @@ namespace multiEnvInstaller
         }
     }
 
-    public class Logger : ILogger
+    public class Logger : ILogger 
     {
         public async Task Log(string message, string level)
         {
